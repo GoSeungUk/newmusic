@@ -1,0 +1,63 @@
+{
+  "channelNumber": "0EA6R0",
+  "orderNumber": "0023",
+  "orderDateTime": "2023-06-05 22:02",
+  "paymentMethod": "쿠팡이츠 / 선결제",
+  "estimatedDeliveryTime": "-분",
+  "senderNumber": null,
+  "deliveryAddress": null,
+  "customerRequest": "수저포크X",
+  "isCanceled": false,
+  "orderItemList": [
+    {
+      "name": "베이컨 크림 리조또",
+      "quantity": 1,
+      "price": 11900,
+      "optionList": [
+        {
+          "name": "맵기 1 : 매콤한 정도, 진라면 매운맛 수준",
+          "quantity": 1,
+          "price": 0
+        },
+        {
+          "name": "리뷰 약속 - 착즙 오렌지 쥬스",
+          "quantity": 1,
+          "price": 0
+        }
+      ]
+    },
+    {
+      "name": "배부른 1인 세트",
+      "quantity": 1,
+      "price": 10900,
+      "optionList": [
+        {
+          "name": "베이컨 크림 파스타",
+          "quantity": 1,
+          "price": 1500
+        },
+        {
+          "name": "라지 (Large)",
+          "quantity": 1,
+          "price": 500
+        }
+      ]
+    },
+    {
+      "name": "배달비",
+      "quantity": 1,
+      "price": 2000,
+    }
+  ],
+  "chargeAmount": 26800,
+  "billingAmount": 0,
+  "paymentDetails": {
+      "method": "쿠팡이츠선결제",
+      "amount": 26800
+  },
+  "businessName": "알엔",
+  "businessAddress": "서울 강남구 역삼로17길 33 (역삼동) 1층",
+  "businessRegistrationNumber": "0000000000",
+  "businessOwner": "홍길동",
+  "businessPhoneNumber": "00-000-0000"
+}
